@@ -2,7 +2,7 @@
 --
 -- main.lua
 --
---This program puts a text box on the screen and when you touch a ball it will print the text to the console.
+--This program puts a text box on the screen and when you touch the ball it will print the text to the console.
 --
 --Created By: Aden Rao
 --Created On: 2019/02/13
